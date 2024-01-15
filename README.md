@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zainab-Audu
 - 👀 I’m interested in Producing neat and workable code
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently a Frontebd developer who enjoys building
 - 💞️ I’m looking to collaborate with people with thesame goal
 
 <!---
