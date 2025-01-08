@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Zainab-Audu
-- 👀 I’m interested in Producing neat and workable code
-- 🌱 I’m currently a Frontebd developer who enjoys building
-- 💞️ I’m looking to collaborate with people with thesame goal
+👋 Hello, World! I’m Zainab-Audu
+👀 Passionate About: Crafting clean, efficient, and maintainable code
+🌱 Current Role: Frontend Developer building intuitive, user-focused web experiences
+💡 Excited To: Collaborate with like-minded innovators who share the vision for impactful development
+
+Let’s create something amazing together! 🚀
 
 <!---
 Zainab-Audu/Zainab-Audu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
