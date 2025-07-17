@@ -16,4 +16,4 @@ Tech Stack💻
 Frontend: HTML5, CSS3,Tailwind CSS, JavaScript, TypeScript, React, Next.js.
 Version Control: Git, GitHub
 Design & Prototyping: Figma
-Database: MongoDB
+
